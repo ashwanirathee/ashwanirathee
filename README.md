@@ -1,7 +1,7 @@
-Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi, I am Ashwani Rathee. I am a graduate student at UCSC. I work on computer vision and graphics, currently specifically working with ARVR glasses for scene understanding.
 
-Hey, I am Ashwani Rathee. You can call me ash, I am graduate student at UCSC.
+Some well liked posts that I have written:
+- [Sorting Algorithms with CUDA!](https://ashwanirathee.com/blog/2025/sort2/)
 
-[![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.gg/f2qmJnj2Vk)
-[![Linkedin](https://img.shields.io/badge/contact-me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-rathee-0b7594192/)
-[![Medium](https://img.shields.io/badge/contact-me-blue?logo=medium&logoColor=white)](https://medium.com/@ashwanirathee)
+[![Linkedin](https://img.shields.io/badge/contact-me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-rathee/)
+[![Blog](https://img.shields.io/badge/contact-me-blue?logo=blogger&logoColor=white)](https://ashwanirathee.com/blog)
