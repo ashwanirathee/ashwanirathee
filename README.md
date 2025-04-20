@@ -1,4 +1,7 @@
-Hi, I am Ashwani Rathee. I am a graduate student at UCSC. I work on computer vision and graphics, currently specifically working with ARVR glasses for scene understanding. In past, I contributed to open source via GSOC'22, OSPP'21, GSSOC'21, PSOC'20 etc. 
+Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in computer science. 
+
+- I work on computer vision and graphics, currently specifically working with ARVR glasses for scene understanding currently.
+- In past, I contributed to open source via GSOC'22, OSPP'21, GSSOC'21, PSOC'20 etc. 
 
 Some well liked posts that I have written:
 - [Sorting Algorithms with CUDA!](https://ashwanirathee.com/blog/2025/sort2/?utm_source=github&utm_medium=social&utm_campaign=sort2)
