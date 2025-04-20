@@ -6,7 +6,7 @@ Some well liked posts that I have written:
 Here are my projects:
 - Graphics: [3D Graphics Engine with WebGL](https://ashwanirathee.com/cs/projects/graphics/)
 - Architecture: [Perceptron Based Branch Predictor](https://github.com/ashwanirathee/scarab)
-- DL: [Brain Tumor Segmentation](https://github.com/ashwanirathee/Brain-Tumor-Segmentation)
+- Deep Learning: [Brain Tumor Segmentation](https://github.com/ashwanirathee/Brain-Tumor-Segmentation)
 
 [![Linkedin](https://img.shields.io/badge/contact-me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-rathee/)
 [![Blog](https://img.shields.io/badge/contact-me-blue?logo=blogger&logoColor=white)](https://ashwanirathee.com/blog)
