@@ -8,6 +8,9 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 #### 📝 Blog Posts:
 - [Sorting Algorithms with CUDA!](https://ashwanirathee.com/blog/2025/sort2/?utm_source=github&utm_medium=social&utm_campaign=sort2)
 
+#### OpenSource Work:
+- [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support in Julia
+ 
 #### 💻 Featured Projects
 Check out some of my key projects pinned below:
 
