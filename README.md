@@ -11,6 +11,5 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 #### 🔓 Open-Source Work:
 - [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support in Julia
  
-#### 💻 Featured Projects
-Some of my key projects are pinned below:
+#### 💻 Featured Projects:
 
