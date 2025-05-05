@@ -10,4 +10,5 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 
 #### 🔓 Open-Source Work:
 - [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support in Julia
+- [GIFImages.jl](https://github.com/JuliaIO/GIFImages.jl): GIF Images support for image ecosystem
  
