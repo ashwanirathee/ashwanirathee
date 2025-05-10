@@ -2,7 +2,7 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 
 #### 💻 Featured Projects:
 - [voxelminer](https://github.com/ashwanirathee/VoxelMiner): 3D WebGL2 Raster Engine
-- [tumor-detect](https://github.com/ashwanirathee/Brain-Tumor-Segmentation): Computer Aided Diagnosis
+- [tumor-analysis](https://github.com/ashwanirathee/Brain-Tumor-Segmentation): Computer Aided Diagnosis
 - [distrifein](https://github.com/ashwanirathee/Distrifein): Broadcasting and Consensus Protocols
 - [scarab](https://github.com/ashwanirathee/scarab): Dynamic Branch Prediction with Perceptrons
 - [libframe](https://github.com/ashwanirathee/libframe): Image Signal Processing Pipeline and 3D Vision/Graphics
