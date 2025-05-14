@@ -11,6 +11,7 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 - [netsec](https://github.com/ashwanirathee/netsec): Network Security Tools
 
 #### 🔓 Open-Source Work:
-- [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support in Julia
-- [GIFImages.jl](https://github.com/JuliaIO/GIFImages.jl): GIF Images support for image ecosystem
+- [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support
+- [GIFImages.jl](https://github.com/JuliaIO/GIFImages.jl): GIF Images support
+- [Firebase.jl](https://github.com/rdboyes/Firebase.jl): Firebase API access
  
