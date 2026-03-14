@@ -6,4 +6,9 @@ Website: [ashwanirathee.com](https://ashwanirathee.com/?utm_source=github&utm_me
 - [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support
 - [GIFImages.jl](https://github.com/JuliaIO/GIFImages.jl): GIF Images support
 - [Firebase.jl](https://github.com/rdboyes/Firebase.jl): Firebase API access
+
+### Research Code
+- [Guideline-Seg](https://github.com/ashwanirathee/guideline-reasonseg): Reasoning Segmentation via Multi-Agent Refinement, published at AAAI'26
+
+
  
