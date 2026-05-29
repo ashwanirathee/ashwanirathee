@@ -2,10 +2,11 @@ Hi, I am Ashwani Rathee. I am a graduate student at UCSC doing masters in comput
 
 Website: [ashwanirathee.com](https://ashwanirathee.com/?utm_source=github&utm_medium=social)
 
-#### Open-Source Work:
+#### Past Open-Source Work:
 - [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support
 - [GIFImages.jl](https://github.com/JuliaIO/GIFImages.jl): GIF Images support
 - [Firebase.jl](https://github.com/rdboyes/Firebase.jl): Firebase API access
+- [OpenCV.jl](https://github.com/JuliaImages/OpenCV.jl): Use OpenCV in Julia!! 🚀 
 
 #### Research Code
 - [Guideline-Seg](https://github.com/ashwanirathee/guideline-reasonseg): Reasoning Segmentation via Multi-Agent Refinement, published at AAAI'26
