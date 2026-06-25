@@ -3,7 +3,7 @@ Hi, I am Ashwani Rathee. I am a Master of Science in Computer Science graduate f
 I am currently looking for opportunities in **Physical AI**(ML+Robotics) with focus on perception. Please feel free to email me for any potential opportunities.
 
 - Website: [ashwanirathee.com](https://ashwanirathee.com/?utm_source=github&utm_medium=social)
-- Email: ashwanirathee [dot] work [at] gmail [dot] com
+- Email: arathee1@ucsc.edu
 
 #### Past Open-Source Work:
 - [ExifViewer.jl](https://github.com/JuliaImages/ExifViewer.jl): Exif IO support
