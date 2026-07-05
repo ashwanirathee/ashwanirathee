@@ -1,6 +1,6 @@
 Hi, I am Ashwani Rathee. I am a Master of Science in Computer Science graduate from UC Santa Cruz, California.  I work on computer vision and graphics, specifically working with XR glasses for scene understanding currently. In past, I contributed to open source via GSOC'22, OSPP'21, GSSOC'21, PSOC'20. Also I helped to organize [Image Processing Workshop](https://github.com/JuliaImages/JuliaCon23_ImageProcessingWorkshop) at JuliaCon'23.
 
-I am currently looking for opportunities in **Physical AI**(ML+Robotics) with focus on perception. Please feel free to email me for any potential opportunities.
+I am currently looking for computer vision/perception roles in ML/Robotics teams. Please feel free to email me for any potential opportunities.
 
 - Website: [ashwanirathee.com](https://ashwanirathee.com/?utm_source=github&utm_medium=social)
 - Email: arathee1@ucsc.edu
