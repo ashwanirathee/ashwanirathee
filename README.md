@@ -5,6 +5,7 @@ I am currently looking for computer vision/perception roles in ML/Robotics teams
 - Website: [ashwanirathee.com](https://ashwanirathee.com/?utm_source=github&utm_medium=social)
 - Email: arathee1@ucsc.edu
 
+Relevant Demos: [demo.ashwanirathee.com](demo.ashwanirathee.com)
 #### Live Projects
 - [r1.ashwanirathee.com](https://r1.ashwanirathee.com): ROS2 based RC car
 - [uav.ashwanirathee.com](https://uav.ashwanirathee.com): UAV Simulation
